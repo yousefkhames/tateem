@@ -1,0 +1,13 @@
+{
+  "name": "tateem",
+  "version": "1.0.0",
+  "description": "Children vaccine schedule, reminders and growth notes. Static, client-side, Arabic and English.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/core.test.js",
+    "e2e": "node tests/e2e.mjs",
+    "shots": "node tests/shots.mjs",
+    "serve": "python3 -m http.server 8080"
+  },
+  "devDependencies": { "puppeteer-core": "^25.0.0" }
+}
