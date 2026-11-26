@@ -10,6 +10,15 @@
 <img src="docs/growth.png" width="190" alt="Growth charts">
 </p>
 
+## Screenshots
+
+Captured from the live site (https://yousefkhames.github.io/tateem/).
+
+<p>
+  <img src="docs/screenshots/live-desktop.png" alt="tateem desktop view" width="640">
+  <img src="docs/screenshots/live-mobile.png" alt="tateem mobile view" width="200">
+</p>
+
 ## The pitch
 
 Parents in Egypt carry a paper vaccination card and a lot of dates in their heads. Tateem turns the child's birth date into a full, readable timeline: what is done, what is due soon, what is late. Tick doses off, get reminders in your phone calendar, and keep weight and length notes next to the vaccines so they are all in one place at the next clinic visit.
