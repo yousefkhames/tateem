@@ -67,3 +67,10 @@ The unit tests cover date maths, status rules, reminder selection, .ics output, 
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+
+## Demo / portfolio project
+
+Static GitHub Pages site. Data stays in your browser. Sample data is fictional and results are not professional, legal, medical or financial advice.
+
+By Yousef Khames · من تطوير يوسف خميس
